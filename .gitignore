@@ -1,5 +1,8 @@
 #ras
-.DS_Store
+**/.DS_Store
+**/*.ipynb_checkpoints/
+**/__pycache__
+.jovianrc
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
