@@ -16,7 +16,7 @@ In this notebook we are introduced to the concept of geojson and paint a choropl
 - 3_geo_dataframe.ipynb
 In this notebook we work with the geopandas library and learn how to make a geodataframe and paint a basic map with the Cartoframes library.
 
-### Technology Stack 
+### Technology Stack
 
 - [Folium](https://python-visualization.github.io/folium/)
 - [Pandas](https://pandas.pydata.org/docs/)
